@@ -1,4 +1,4 @@
-#📊 Mini Project — Google Play Store Data Visualization
+# 📊 Mini Project — Google Play Store Data Visualization
 
 🧠 Project Overview
 This project is part of the Machine Learning in Python (ML0101EN) course, focusing heavily on Exploratory Data Analysis (EDA) and Visualization techniques. The primary tools utilized for visualization are the powerful Python libraries Matplotlib and Seaborn.
